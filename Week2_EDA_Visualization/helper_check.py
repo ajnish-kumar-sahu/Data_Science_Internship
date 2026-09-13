@@ -1,5 +1,7 @@
 
 import os
-BASE = r'C:\Users\ajnis\OneDrive\Desktop\yuvaintern\Data_Science_Internship\Week2_EDA_Visualization'
+
+from anyio import Path
+BASE = Path(r'C:\Users\ajnis\OneDrive\Desktop\yuvaintern\Week2_EDA_Visualization')
 print('Base:', BASE)
-print('Exists:', os.path.exists(BASE))
+print('Exists:', BASE.exists())
