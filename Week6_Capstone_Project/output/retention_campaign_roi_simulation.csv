@@ -1,0 +1,9 @@
+Metric,Value
+Targeted Customer Accounts,427 accounts
+Targeting Criteria,"Churn Prob >= 40% & Predicted CLV >= $1,500"
+Per-Account Intervention Package,$65.00
+Total Retention Campaign Budget,"$27,755.00"
+Simulated Retention Uplift,65% of contacted churners preserved
+Gross Customer Lifetime Value Preserved,"$558,400.24"
+Net Enterprise Financial Gain,"$530,645.24"
+Projected Return on Investment (ROI),"1,911.9%"

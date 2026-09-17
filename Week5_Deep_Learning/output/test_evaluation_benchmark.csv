@@ -1,0 +1,3 @@
+Architecture,Test_Loss,Test_Accuracy,Top_2_Accuracy,Error_Rate,Inference_Total_Sec,Latency_per_1000_Img_ms,Total_Params
+Baseline MLP,2.3068,12.0,26.82,88.0,0.707,141.33,235146
+Deep Regularized CNN,2.2994,10.94,24.48,89.06,1.249,249.75,469098

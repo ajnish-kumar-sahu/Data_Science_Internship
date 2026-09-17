@@ -1,0 +1,6 @@
+Model,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,Test_ROC_AUC,Test_PR_AUC,Brier_Score
+Logistic Regression,78.3,43.5,82.76,57.03,0.8807,0.6075,0.1417
+Deep MLP Classifier,85.8,66.33,37.36,47.79,0.88,0.6078,0.0986
+Gradient Boosting,85.3,63.37,36.78,46.55,0.8686,0.5738,0.1026
+Random Forest,82.6,50.0,71.84,58.96,0.8678,0.5985,0.1242
+Dummy Baseline,71.6,17.65,17.24,17.44,0.5015,0.1744,0.284

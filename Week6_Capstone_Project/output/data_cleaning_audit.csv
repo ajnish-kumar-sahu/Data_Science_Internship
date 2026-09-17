@@ -1,0 +1,3 @@
+Feature,Null_Count,Null_Percentage,Remediation_Strategy
+CustomerSatisfactionScore,18,0.36%,Impute with median score
+TotalChargesHistorical,12,0.24%,Impute with 0.0 (tenure=0 accounts)

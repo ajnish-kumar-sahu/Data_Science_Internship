@@ -1,0 +1,6 @@
+Model,CV_Accuracy_Mean,CV_Precision_Mean,CV_Recall_Mean,CV_F1_Mean,CV_ROC_AUC_Mean,CV_PR_AUC_Mean
+Dummy Baseline,71.62,18.57,18.71,18.64,0.5073,0.1776
+Logistic Regression,77.88,42.87,81.87,56.26,0.8748,0.6293
+Random Forest,82.37,49.61,72.23,58.75,0.8657,0.5909
+Gradient Boosting,85.98,65.73,40.43,50.01,0.8603,0.5857
+Deep MLP Classifier,86.48,66.97,43.6,52.64,0.8672,0.6118

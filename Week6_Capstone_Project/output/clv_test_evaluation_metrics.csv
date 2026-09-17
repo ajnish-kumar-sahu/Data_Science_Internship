@@ -1,0 +1,5 @@
+Model,Test_R2,Test_RMSE_Dollars,Test_MAE_Dollars,Test_MAPE_Pct
+Gradient Boosting Regressor,0.7807,440.41,303.04,20.83
+Ridge Regression,0.7731,447.99,333.57,22.6
+Random Forest Regressor,0.7606,460.1,318.43,21.71
+Dummy Baseline (Mean),-0.0001,940.46,803.52,61.7

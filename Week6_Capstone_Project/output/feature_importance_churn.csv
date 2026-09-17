@@ -1,0 +1,27 @@
+Feature,Gini_Importance
+TenureMonths,0.18827868510631343
+SupportTicketsLastYear,0.16593764135849673
+CustomerSatisfactionScore,0.1459164735150367
+MonthlyUsageGB,0.07878795906574387
+TotalChargesHistorical,0.0768576790196271
+ContractType_Two year,0.07011508134390491
+ContractType_One year,0.0661710087495761
+MonthlyCharges,0.05225026055072415
+PaymentMethod_Electronic check,0.05001894583756229
+PaymentDelaysCount,0.04392480524692425
+Age,0.02311121439035726
+InternetService_Fiber optic,0.013767184455652445
+OnlineSecurity_Yes,0.005325275424702335
+Gender_Male,0.0048243515482852255
+TechSupport_Yes,0.0032335230341732093
+PaymentMethod_Mailed check,0.002832610575353527
+Partner_Yes,0.00239337306033999
+Dependents_Yes,0.0016448171719399087
+PaperlessBilling_Yes,0.0015695845260264361
+StreamingServices_Yes,0.0011468467241382806
+PaymentMethod_Credit card (automatic),0.0009832550000461598
+StreamingServices_No internet service,0.000347100440886127
+OnlineSecurity_No internet service,0.00034102282369863986
+SeniorCitizen,0.00019626557059260194
+InternetService_No,1.746172560040216e-05
+TechSupport_No internet service,7.573734297904484e-06

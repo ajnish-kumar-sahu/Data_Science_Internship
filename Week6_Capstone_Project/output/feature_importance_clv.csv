@@ -1,0 +1,27 @@
+Feature,Relative_Importance
+TotalChargesHistorical,0.5238066286916142
+MonthlyCharges,0.33027487375583403
+MonthlyUsageGB,0.03436774119857188
+SupportTicketsLastYear,0.03283056991391862
+CustomerSatisfactionScore,0.027789686102342066
+ContractType_Two year,0.0129199604503932
+ContractType_One year,0.008209685953358938
+PaymentMethod_Electronic check,0.008067241007569507
+PaymentDelaysCount,0.007658377335213071
+TenureMonths,0.004632730535459292
+Age,0.003915776090488866
+OnlineSecurity_Yes,0.0010246907816992374
+TechSupport_Yes,0.0007075332488807551
+Dependents_Yes,0.0006948283188587022
+PaymentMethod_Credit card (automatic),0.0006907744600862736
+Partner_Yes,0.0005996051178932197
+StreamingServices_Yes,0.0005600079973645388
+Gender_Male,0.00045103053566316817
+InternetService_Fiber optic,0.00043673093286106956
+PaperlessBilling_Yes,0.00028294078361124834
+PaymentMethod_Mailed check,3.9720047335857414e-05
+StreamingServices_No internet service,1.8846530805134437e-05
+TechSupport_No internet service,9.446318799487618e-06
+InternetService_No,7.5653735437407226e-06
+OnlineSecurity_No internet service,3.0085178339361174e-06
+SeniorCitizen,0.0

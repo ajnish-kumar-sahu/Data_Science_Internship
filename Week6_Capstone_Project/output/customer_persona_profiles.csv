@@ -1,0 +1,5 @@
+Cluster_ID,Persona_Name,Customer_Count,Cohort_Share_Pct,Mean_Tenure_Months,Mean_Monthly_Usage_GB,Mean_Support_Tickets,Mean_Payment_Delays,Mean_Satisfaction,Mean_Monthly_Charges,Actual_Churn_Rate_Pct,Mean_CLV_Dollars
+0,High-Value Enterprise Loyalists,574,11.5%,31.2,207.1,1.34,2.65,3.53,75.46,30.5%,2015.16
+1,At-Risk Month-to-Month Consumers,2061,41.2%,33.9,96.8,0.81,0.38,4.59,57.79,7.0%,1836.62
+2,Tech-Savvy Heavy Streamers,1517,30.3%,32.4,377.6,0.91,0.4,4.53,100.06,13.2%,2924.36
+3,Budget-Conscious Minimalists,848,17.0%,24.6,185.7,3.44,0.49,3.25,76.1,41.3%,1791.25

@@ -1,0 +1,11 @@
+Class_ID,Class_Name,Train_Samples,Val_Samples,Test_Samples,Total_Samples,Train_Pct,Class_Balance
+0,T-shirt/top,2000,400,500,2900,10.0%,Perfect (Uniform)
+1,Trouser,2000,400,500,2900,10.0%,Perfect (Uniform)
+2,Pullover,2000,400,500,2900,10.0%,Perfect (Uniform)
+3,Dress,2000,400,500,2900,10.0%,Perfect (Uniform)
+4,Coat,2000,400,500,2900,10.0%,Perfect (Uniform)
+5,Sandal,2000,400,500,2900,10.0%,Perfect (Uniform)
+6,Shirt,2000,400,500,2900,10.0%,Perfect (Uniform)
+7,Sneaker,2000,400,500,2900,10.0%,Perfect (Uniform)
+8,Bag,2000,400,500,2900,10.0%,Perfect (Uniform)
+9,Ankle boot,2000,400,500,2900,10.0%,Perfect (Uniform)

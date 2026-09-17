@@ -1,0 +1,11 @@
+True_Class,Predicted_As,Error_Count,Error_Rate_Pct
+Sneaker,Shirt,499,99.8
+Pullover,Shirt,498,99.6
+Coat,Shirt,496,99.2
+Sandal,Shirt,490,98.0
+T-shirt/top,Shirt,485,97.0
+Bag,Shirt,463,92.6
+Ankle boot,Shirt,461,92.2
+Dress,Shirt,440,88.0
+Trouser,Shirt,254,50.8
+Trouser,T-shirt/top,242,48.4

@@ -1,0 +1,5 @@
+Model,CV_R2_Mean,CV_R2_Std,CV_RMSE_Mean_Dollars
+Dummy Baseline (Mean),-0.0008,0.0012,902.9
+Ridge Regression,0.7473,0.0131,453.46
+Random Forest Regressor,0.7351,0.0173,464.19
+Gradient Boosting Regressor,0.755,0.0189,446.38

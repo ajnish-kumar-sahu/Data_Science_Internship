@@ -1,0 +1,10 @@
+Feature,Mean_Retained,Mean_Churned,Mean_Difference,t_Statistic,p_Value,Significance
+Age,42.21,42.38,0.17,0.365,0.7150,Not Significant
+TenureMonths,34.15,19.33,-14.82,-25.882,4.78e-122,Statistically Significant (p < 0.001)
+MonthlyUsageGB,204.47,234.79,30.32,5.047,5.16e-07,Statistically Significant (p < 0.001)
+SupportTicketsLastYear,1.12,2.45,1.33,23.129,3.00e-96,Statistically Significant (p < 0.001)
+PaymentDelaysCount,0.59,1.0,0.41,9.734,1.58e-21,Statistically Significant (p < 0.001)
+CustomerSatisfactionScore,4.35,3.62,-0.73,-22.179,2.52e-90,Statistically Significant (p < 0.001)
+MonthlyCharges,75.08,78.94,3.87,3.623,0.0003,Statistically Significant (p < 0.001)
+TotalChargesHistorical,2557.91,1535.2,-1022.71,-18.946,4.84e-72,Statistically Significant (p < 0.001)
+CustomerLifetimeValue,2404.85,1107.92,-1296.93,-68.695,0.00e+00,Statistically Significant (p < 0.001)

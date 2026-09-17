@@ -1,0 +1,8 @@
+CLV_Value_Tier,Budget Value (<$1.2k),Budget Value (<$1.2k),Budget Value (<$1.2k),Mid Value ($1.2k-$2.5k),Mid Value ($1.2k-$2.5k),Mid Value ($1.2k-$2.5k),High Value (>$2.5k),High Value (>$2.5k),High Value (>$2.5k),Total_Accounts
+Churn_Risk_Tier,Low Risk (<30%),Medium Risk (30-60%),Critical Risk (>60%),Low Risk (<30%),Medium Risk (30-60%),Critical Risk (>60%),Low Risk (<30%),Medium Risk (30-60%),Critical Risk (>60%),
+Customer_Persona,,,,,,,,,,
+At-Risk Month-to-Month Consumers,400,36,7,1248,36,1,331,2,0,2061
+Budget-Conscious Minimalists,24,44,67,233,197,161,101,18,3,848
+High-Value Enterprise Loyalists,38,13,47,168,59,82,150,14,3,574
+Tech-Savvy Heavy Streamers,0,0,0,180,118,52,1124,40,3,1517
+Total_Accounts,462,93,121,1829,410,296,1706,74,9,5000

@@ -1,0 +1,3 @@
+Architecture,Total_Layers,Total_Parameters,Trainable_Parameters,Regularization,Spatial_Inductive_Bias
+Baseline MLP,3,235146,235146,None (Null Regularization),None (Flat input vector)
+Deep Regularized CNN,17,469098,468458,"Batch Normalization + Staged Dropout (0.25, 0.50)",Strong (Translation invariance via 2D Convolutions & MaxPool)

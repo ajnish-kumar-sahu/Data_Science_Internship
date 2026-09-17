@@ -1,0 +1,6 @@
+Cluster,Persona_Name,Size,Percentage,Mean_Income_k,Mean_Spending_Score,Mean_Age,Female_Pct,Male_Pct,Description
+0,Moderate Mainstream (Standard),81,40.5,55.3,49.5,42.7,59.3,40.7,Balanced income and spending. Core revenue foundation.
+1,High-Value Champions (VIP),39,19.5,86.5,82.1,32.7,53.8,46.2,High earnings and high spending. Prime revenue generator.
+2,Impulsive Trendsetters (Youth),22,11.0,25.7,79.4,25.3,59.1,40.9,Lower earnings but enthusiastic spenders. Driven by fast-fashion.
+3,Cautious Affluent (Savers),35,17.5,88.2,17.1,41.1,45.7,54.3,High earnings but conservative spending. High untapped potential.
+4,Budget Seekers (Sensible),23,11.5,26.3,20.9,45.2,60.9,39.1,Low income and minimal discretionary spend. Price sensitive.

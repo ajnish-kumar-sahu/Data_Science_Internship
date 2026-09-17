@@ -1,0 +1,11 @@
+,Age,TenureMonths,MonthlyUsageGB,SupportTicketsLastYear,PaymentDelaysCount,CustomerSatisfactionScore,MonthlyCharges,TotalChargesHistorical,CustomerLifetimeValue,Churn
+Age,1.0,0.0062,0.0123,0.001,0.0066,-0.0079,0.0116,0.0134,0.0143,0.0051
+TenureMonths,0.0062,1.0,-0.0123,-0.1407,-0.0043,0.0855,-0.0204,0.7913,0.3888,-0.3056
+MonthlyUsageGB,0.0123,-0.0123,1.0,0.0066,0.005,-0.0095,0.6814,0.3547,0.5546,0.0736
+SupportTicketsLastYear,0.001,-0.1407,0.0066,1.0,0.0141,-0.6601,0.0041,-0.11,-0.219,0.3734
+PaymentDelaysCount,0.0066,-0.0043,0.005,0.0141,1.0,-0.3465,-0.005,-0.007,-0.0893,0.1617
+CustomerSatisfactionScore,-0.0079,0.0855,-0.0095,-0.6601,-0.3465,1.0,0.0031,0.0718,0.1984,-0.3473
+MonthlyCharges,0.0116,-0.0204,0.6814,0.0041,-0.005,0.0031,1.0,0.517,0.7306,0.0515
+TotalChargesHistorical,0.0134,0.7913,0.3547,-0.11,-0.007,0.0718,0.517,1.0,0.7232,-0.2237
+CustomerLifetimeValue,0.0143,0.3888,0.5546,-0.219,-0.0893,0.1984,0.7306,0.7232,1.0,-0.5398
+Churn,0.0051,-0.3056,0.0736,0.3734,0.1617,-0.3473,0.0515,-0.2237,-0.5398,1.0
